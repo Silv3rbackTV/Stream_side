@@ -1,0 +1,49 @@
+body {
+background-color: #6441a5;
+font-family: sans-serif;
+}
+
+
+h1 {
+text-align: center;
+  color: white
+}
+
+p {
+text-align: center;
+  color: white
+}
+
+.bilde{
+  width: 200px;
+  border-radius: 50%;
+  border-color: grey;
+  border-width: 4px;
+  border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+
+}
+
+
+.sitat {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 50px;
+
+}
+
+.overskrift{
+ margin-top: 50px;
+}
+
+.navn{
+ font-style: italic;
+}
+
+.under_arbeid{
+  color: black;
+  font-style: italic;
+}
